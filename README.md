@@ -261,13 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vercel** - Excellent deployment platform
 - **shadcn/ui** - Beautiful component library
 
-## 📞 Support
-
-For questions or support:
-- **GitHub Issues** - Bug reports and feature requests
-- **Email** - support@ai-test-generator.com
-- **Documentation** - Comprehensive guides and tutorials
-
----
+PRs and collaborations are always welcome
 
 **Built with ❤️ for developers who love quality code and comprehensive testing**
